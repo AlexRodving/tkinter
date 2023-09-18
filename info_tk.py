@@ -83,6 +83,7 @@ txt.pack()
 
 txt2 = Label(root, bg="black", fg="white")
 txt2.pack(fill=X,)
+print("hello")
  
 #---------------------- IMG ------------------------------------
 
